@@ -1,0 +1,1 @@
+memoria de solo lectura,realiza los procesos matematicos del procesador,transfiere datos entre los componentes de una computadora,sistema de numeracion posicional que tiene como base el 16,memoria de acceso aleatorio,unidad minima de informacion$
